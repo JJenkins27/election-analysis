@@ -15,7 +15,7 @@ Assisting a Colorado Board of Elections employee, Tom, for a precinct in Colorad
 The election results were presented in a CSV file with headers Ballot ID, County, and Candidate.
 
 - Using the CSV, Python determined there were 369,711 votes counted.
-- The counties and their results recorded were:
+- The counties and their results recorded were: 
   - Jefferson county with 38,855 votes or 10.5% of the total votes.
   - Denver county with 306,055 votes or 82.8% of the total votes.
   - Arapahoe county with 24,801 votes or 6.7% of the total votes.
