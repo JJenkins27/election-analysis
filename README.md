@@ -15,12 +15,12 @@ Assisting a Colorado Board of Elections employee, Tom, for a precinct in Colorad
 The election results were presented in a CSV file with headers Ballot ID, County, and Candidate.
 
 - Using the CSV, Python determined there were 369,711 votes counted.
-- The counties and their results recorded were: 
+- The counties and the results recorded were: 
   - Jefferson county with 38,855 votes or 10.5% of the total votes.
   - Denver county with 306,055 votes or 82.8% of the total votes.
   - Arapahoe county with 24,801 votes or 6.7% of the total votes.
  - With 82.8% of the total votes, Denver county was the county with the largest turnout.
- - The possible candidates and their results recorded were:
+ - The possible candidates and the results recorded were:
     - Charles Casper Stockham received 85,213 votes or 23.0% of the total votes.
     - Diana DeGette received 272,892 votes or 73.8% of the total votes.
     - Raymon Anthony Doane received 11,606 votes or 3.1% of the total votes.
