@@ -24,7 +24,7 @@ The election results were presented in a CSV file with headers Ballot ID, County
     - Charles Casper Stockham received 85,213 votes or 23.0% of the total votes.
     - Diana DeGette received 272,892 votes or 73.8% of the total votes.
     - Raymon Anthony Doane received 11,606 votes or 3.1% of the total votes.
- - With 7.8% of the total votes, Diana DeGette won the popular vote.
+ - With 73.8% of the total votes, Diana DeGette won the popular vote.
  
  Below is a snapshot of the txt file created by Python to show the results.
 
